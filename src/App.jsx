@@ -1,7 +1,8 @@
 import React from "react";
 import "./App.css";
+import SpellCheck from "./components/SpellCheck";
 const App = () => {
-  return <div>App</div>;
+  return <SpellCheck />;
 };
 
 export default App;
